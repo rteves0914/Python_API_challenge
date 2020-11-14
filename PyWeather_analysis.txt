@@ -1,0 +1,5 @@
+1. Based on my first scatter plot, it is easy to see that as we move further away from Latitude=0, the temperature is decreasing. 
+
+2. In plotting the northern hemisphere temperatures on the scatter plot, again it is easy to see that as latitude is increasing, the temperatures are decreasing. There is a strong correlation between the maximum temperature of a city and the latitude of a city as evidenced by an r-value of -0.865.
+
+3. The cloudiness, humidity, and wind speeds of cities does not appear to have a strong relationship with the latitude of a city. This is shown by all of the weak r-values given in the scatter plots.
