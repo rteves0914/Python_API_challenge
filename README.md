@@ -14,4 +14,4 @@ I create scatter plots to show all of these trends, and use heat maps emphasize 
 
 ![](PyWeather/latitude_vs_temperature.png)
 
-![](PyWeather/latitude_vs_windspeed.png)
+![](PyWeather/latitude_vs_wind_speed.png)
